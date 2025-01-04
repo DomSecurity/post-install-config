@@ -15,7 +15,7 @@ Okay wonderful! We have successfully configured/installed osTicket from scratch.
 We'll first configure/setup new roles within the help desk. In order to do so, we'll go to Admin panel-> Agents-> Roles. We will create a Supreme Admin name, Dominic. 
 Click on "Add new role" then enter the name of the new role (Dominic). We'll also modify any specific roles permissions. In this case since we are creating a Supreme Admin we'll be given it all permissions. Keep in mind roles are used to determine an agents permissions so not all agents will have unlimited access. If you followed the steps correctly your screen should look something like this. As you can see we have successfully created the "Supreme Admin" role named Dominic.
 </p>
-<img src="https://i.imgur.com/XHteqdt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/XhrsYQd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 <p>
@@ -25,44 +25,46 @@ Select the "Departments" button in the agents tab. Here we will be able to creat
 </p>
 <br />
 <p>
-<img src="https://i.imgur.com/dGK0RVM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/NhwTdre.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 After configuring a new department we will set up a new team. Teams allow you to pull agents from different departments you can have an A team that has top technicians from specific departments. For example you can create a help topic that correlates with a product you produce, and assign it to a team of agents that specialize in that particular product. To set up a team go to Agents->Teams. A Level I support team has been created by default, in this example we will create a Level II Support Team. 
 </p>
 <br />
 <p>
-<img src="https://i.imgur.com/cYzWBD2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/FP6HEZk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Now that we have set up a new team we will create a new setting that will allow anyone to create tickets. Admin Panel->Settings->User Settings.
 
 </p>
 <br />
-<img src="https://i.imgur.com/H1q2Fdh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/8Nvg8dh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-It is now time to create Agents. Agents are the employees of the helpdesk that actually work on solving tickets. Agents are assigned primary departments and given a primary role for tickets sent to their department. Agents can be given access to other departments other than their own, they can also have different roles depending on which department they are in. Permissions, Access, & Teams are be assigned in the Agents tab. 
+It is now time to create Agents. Agents are the employees of the helpdesk that actually work on solving tickets. Agents are assigned primary departments and given a primary role for tickets sent to their department. Agents can be given access to other departments other than their own, they can also have different roles depending on which department they are in. Permissions, Access, & Teams are to be assigned in the Agents tab. 
 </p>
 <br />
-<img src="https://i.imgur.com/8WTOSre.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/IVbI9qq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 After creating some agents we will create users. Users are customers that create tickets when they are having issues. A user is identified with their E-mail address. To create a user follow this path Agent Panel->Users->User Directory->Add new. 
 </p>
 <br />
-<img src="https://i.imgur.com/xOprA9f.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/6RkTqk5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-SLAs Plans provide a length of time in which the help desk is expected to take in order to solve a specific ticket. SLA Plans are created by going to Admin Panel->Manage->SLA Plans. Each SLA has a schedule and within that schedule there is a grace period. In this example SEV-A has a 24/7 and a one hour grace period. 
+SLAs Plans provide a length of time in which the help desk is expected to take in order to solve a specific ticket. SLA Plans are created by going to Admin Panel->Manage->SLA Plans. Each SLA has a schedule and within that schedule there is a grace period. In this example SEV-A has a 24/7 and one hour grace period. 
 </p>
 <br />
-<img src="https://i.imgur.com/LpjCaLd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/EJZArpk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/mKNa37X.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Help topics help users categorize their tickets. In the example below we have made a help topic for "Business Critical Outage" this can be if customers cannot access mobile banking. 
 </p>
 <br />
-<img src="https://i.imgur.com/kB7rts2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/FxkzaQa.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/GpZPBvC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
